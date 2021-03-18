@@ -4,4 +4,6 @@
 
 
 
-# Documentos
+# Arquitectura
+
+<img src="anexos/arquitectura.png" height="250"/>
