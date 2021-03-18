@@ -6,4 +6,4 @@
 
 # Arquitectura 
 
-<img src="arquitectura_de_la_solución.png" height="450"/>
+<img src="Arquitectura_de_la solución.png" height="450"/>
