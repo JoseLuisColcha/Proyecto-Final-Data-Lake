@@ -7,6 +7,7 @@
 
 ## 3. [Visualizaciones](Visualizaciones)
 - En la siguiente visualización se puede observar el número de tweets por ciudad donde Alausi,Quevedo y Napo son los que mayoritariamente han hecho Tweets sobre el tema de ["pulso politico"](Visualizaciones/Numero_tweets_ciudad.png).
+
 ![image](https://user-images.githubusercontent.com/66235614/111674667-3ff43c80-87ea-11eb-9586-7c35942a246f.png)
 
 - La siguiente visualización es sobre el número de retweets con la palabra ["Arauz"](Visualizaciones/Retweets_palabra_Arauz.png) en cada ciudad del Ecuador.
