@@ -21,5 +21,6 @@ Con ayuda del gestor de visualizaciones PowerBi se procedio a realizar 3 visuali
 1. #### Total de retweets por provincias
 
 Las primeras 3 provincias que más se habla de política son: Pichincha, Azuay y Guayas por otro lado las provincias en las cuales no se hablan acerca de política ni se twittea son: Carchi. Cotopaxi y Galápagos.
-<img src="visualizaciones/Tweets-por-provincia.png" width="1000"/><br/>
+
+<img src="Visualizaciones/Tweets-por-provincia.png" width="1000"/><br/>
   
