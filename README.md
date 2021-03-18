@@ -12,6 +12,7 @@ Contiene el dataset obtenido mediante la recopilación de datos , además de los
 Contiene los datos recolectados, los scripts y las visualizaciones de los datos.
 ### 5.  [Documentación](Documentación)
 Contiene el informe técnico del data lake además el documento de presentación en la defensa del proyecto y el cronograma de actividades.
+### 6. [Video en YouTube](https://youtu.be/eD6o_sLmkxo)
 
 
 
