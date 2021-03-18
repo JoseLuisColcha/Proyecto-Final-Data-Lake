@@ -1,6 +1,7 @@
 # Noticias y eventos mundiales
 ## 1. [Extracción de datos](Datos)
-- Se extrajo datos de la pagina web **kaggle** relacionados a las personas vacunadas del Covid-19 y de una página web llamada **statista**, la cual proporciona la evolución del Covid-19 en el mundo desde el 3 de febrero de 2020 hasta el 12 de marzo de 2021. Las graficas de dichos datos se los realizo en PowerBi.
+- Se extrajo datos de la pagina web **kaggle** relacionados a las personas vacunadas del Covid-19. Las graficas de dichos datos se los realizo en **PowerBi**.
+-  Se extrajo datos de la pagina web llamada **statista**, la cual proporciona la evolución del Covid-19 en el mundo desde el 3 de febrero de 2020 hasta el 12 de marzo de 2021. Los datos se los alamceno en la base de datos SQLite, en una base llamada [paises_vacunados.db](paises_vacunados.db). Las graficas de dichos datos se los realizo en **kibana**.
 - Se recopilaron datos de Facebook, de algunos portales de noticias más populares como BBCnewsMundo, CNN en Español, El Clarin, El mundo y RT media, donde se los almaceno en MongoDB.  
 ## 2. [Scripts](Scripts)
 - Se generaron varios scripts .py para recopilar los datos de Facebook.
