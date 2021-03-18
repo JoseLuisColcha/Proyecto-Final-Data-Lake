@@ -6,4 +6,4 @@
 
 # Arquitectura
 
-<img src="anexos/arquitectura.png" height="250"/>
+<img src="anexos/arquitectura.png" height="450"/>
