@@ -1,6 +1,6 @@
 # Enfrentamientos policiales en Estados Unidos.
 ## 1. [Datos](Datos)
-- Para la extracción de datos se descargó un archivo .csv de la página de internet data.world, el [archivo](Datos/fatal-police-shootings-data.csv) trata de los enfrentamientos que han tenido los policias en Estados Unidos ya que indica muchas cosas a cerca de los delincuentes como el tipo de arma,genero,edad,etc.
+- Para la extracción de datos se descargó un archivo .csv de la página de internet data.world, el [archivo](Datos/fatal-police-shootings-data.csv) trata de los enfrentamientos que han tenido los policias en Estados Unidos ya que indica muchas cosas a cerca de los delincuentes como el tipo de arma,género,edad,etc.
 
 ## 2. [Visualizaciones](Visualizaciones)
 - La primera visualización trata sobre las acciones que tomó cada delincuente, la parte de color verde se refiere que al momento de huir el delicuente no sintió nada o practicamente no hizó nada para escapar al tener el enfrentamiento con los policias. 
