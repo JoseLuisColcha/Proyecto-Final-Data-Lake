@@ -10,7 +10,7 @@ Contiene el dataset obtenido mediante la recopilación de datos , además de los
 ### 3. [Juegos en línea por países](https://github.com/JoseLuisColcha/Proyecto-Final-Data-Lake/tree/main/3.%20JuegosOnlinePaises)
 ### 4. [ Noticias y eventos mundiales](https://github.com/JoseLuisColcha/Proyecto-Final-Data-Lake/tree/main/4.%20Noticias%20y%20eventos%20mundiales)
 ### 5.  [Documentación](https://github.com/JoseLuisColcha/Proyecto-Final-Data-Lake/tree/main/Documentaci%C3%B3n)📄
-Contiene el informe técnico del data lake además el documento de presentación en la defensa del proyecto.
+Contiene el informe técnico del data lake además el documento de presentación en la defensa del proyecto y el cronograma de actividades.
 
 
 
