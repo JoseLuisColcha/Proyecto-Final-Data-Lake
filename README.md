@@ -10,7 +10,7 @@ Contiene el dataset obtenido mediante la recopilación de datos , además de los
 
 ### 3. [Juegos en línea por países](https://github.com/JoseLuisColcha/Proyecto-Final-Data-Lake/tree/main/3.%20JuegosOnlinePaises)
 ### 4. [Enfrentamientos policiales en Estados Unidos](https://github.com/JoseLuisColcha/Proyecto-Final-Data-Lake/tree/main/4.Enfrentamientos%20policiales%20en%20Estados%20Unidos)
-Contiene un data set descargado por medio de una página de internet y visualizaciones generados por el mismo data set.
+Contiene un archivo .csv descargado por medio de una página de internet y visualizaciones generados por el mismo archivo.
 ### 5. [ Noticias y eventos mundiales](https://github.com/JoseLuisColcha/Proyecto-Final-Data-Lake/tree/main/5.%20Noticias%20y%20eventos%20mundiales)
 Contiene los datos recolectados, los scripts y las visualizaciones de los datos.
 ### 6.  [Documentación](Documentación)
