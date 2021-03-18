@@ -1,7 +1,7 @@
 # Proyecto-Final-Data-Lake
 
 ## Contenido
-*** 
+
 ### 1. [Pulso político en 20 ciudades principales de Ecuador]()
 ### 2. [Pulso político por provincias en Ecuador](https://github.com/JoseLuisColcha/Proyecto-Final-Data-Lake/tree/main/2.Pulso%20politico%20por%20provincias)
 Contiene el dataset obtenido mediante la recopilación de datos , además de los scripts utilizados para dicha recopilación y migración de datos , también la visualizaciones resultantes del análisis de datos cada una con su respectiva descripción.
