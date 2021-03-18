@@ -6,4 +6,4 @@
 - Se realizó un script para la recopilación de datos en Mongo DB y otro script para migrar los datos de Mongo DB a Mongo DB Atlas.
 
 ## 3. [Visualizaciones](Visualizaciones)
-- En la siguiente visualización se puede observar el numero de tweets por ciudad donde Alausi,Quevedo y Napo son los que mayoritariamente han hecho Tweets sobre el tema de "pulso politico"(Visualizaciones/Numero_tweets_ciudad.png).
+- En la siguiente visualización se puede observar el numero de tweets por ciudad donde Alausi,Quevedo y Napo son los que mayoritariamente han hecho Tweets sobre el tema de "pulso politico".(Visualizaciones/Numero_tweets_ciudad.png).
