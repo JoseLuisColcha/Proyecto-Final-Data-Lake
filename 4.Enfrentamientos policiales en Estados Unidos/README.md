@@ -1,14 +1,15 @@
 # Enfrentamientos policiales en Estados Unidos.
 ## 1. [Datos](Datos)
-- Para la extracción de datos 
-- ![image](https://user-images.githubusercontent.com/66235614/111670922-61ebc000-87e6-11eb-9514-2bd0995c1bb8.png)
+- Para la extracción de datos se descargó un archivo .csv de la página de internet data.world, el [archivo](Datos/fatal-police-shootings-data.csv) trata de los enfrentamientos que han tenido los policias en Estados Unidos ya que indica muchas cosas a cerca de los delincuentes como el tipo de arma,genero,edad,etc.
+
+## 2. [Visualizaciones](Visualizaciones)
+- La primera visualización trata sobre las acciones que tomo cada delincuente, la parte de color verde se refiere que al momento de huir el delicuente no sintió nada o ás claramente no hizó nada para escapar al tener el enfrentamiento con los policias. 
+- ![image](https://user-images.githubusercontent.com/66235614/111672006-81371d00-87e7-11eb-83aa-05d477cba16e.png)
+- La segunda visualización trata de explicar en que ciudades de Estados Unidos son mayores a los enfrentamientos con policias y si son más hombres o mujeres quienes participan en la situación.
+- ![image](https://user-images.githubusercontent.com/66235614/111672801-526d7680-87e8-11eb-9095-b9b50223e3d3.png)
+- La tercera visualización explica la manera de morir que tuvieron los delicuentes al momento del enfrentamiento, el principal indice de muertes son disparos.
+-![image](https://user-images.githubusercontent.com/66235614/111673703-3dddae00-87e9-11eb-9efb-de09130c31c1.png)
 
 
-## 2. [Scripts](Scripts)
-- Se realizó un script para la recopilación de datos en Mongo DB y otro script para migrar los datos de Mongo DB a Mongo DB Atlas.
 
-## 3. [Visualizaciones](Visualizaciones)
-- En la siguiente visualización se puede observar el número de tweets por ciudad donde Alausi,Quevedo y Napo son los que mayoritariamente han hecho Tweets sobre el tema de ["pulso politico"](Visualizaciones/Numero_tweets_ciudad.png).
-- La siguiente visualización es sobre el número de retweets con la palabra ["Arauz"](Visualizaciones/Retweets_palabra_Arauz.png) en cada ciudad del Ecuador.
-- La siguiente visualización es sobre el número de retweets con la palabra ["Lasso"](Visualizaciones/Retweets_palabra_Lasso.png) en cada ciudad del Ecuador.
 
