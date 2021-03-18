@@ -22,7 +22,7 @@ Con ayuda del gestor de visualizaciones PowerBi se procedio a realizar 3 visuali
 
 Las primeras 3 provincias que más se habla de política son: Pichincha, Azuay y Guayas por otro lado las provincias en las cuales no se hablan acerca de política ni se twittea son: Carchi. Cotopaxi y Galápagos.
 
-<img src="Visualizaciones/Tweets-por-provincia.jpg" width="1000"/><br/>
+<img src="Visualizaciones/Total-tweets-favoritos-por-candidato.jpg" width="1000"/><br/>
   
  *** 
 1. ### Total de tweets favoritos en todas las provincias por candidato.
