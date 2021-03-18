@@ -4,6 +4,6 @@
 
 
 
-# Arquitectura
+# Arquitectura 
 
-<img src="anexos/arquitectura.png" height="450"/>
+<img src="arquitectura_de_la_solución.png" height="450"/>
