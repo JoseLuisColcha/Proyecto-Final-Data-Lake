@@ -22,7 +22,7 @@ Con ayuda del gestor de visualizaciones PowerBi se procedio a realizar 3 visuali
 
 Las primeras 3 provincias que más se habla de política son: Pichincha, Azuay y Guayas por otro lado las provincias en las cuales no se hablan acerca de política ni se twittea son: Carchi. Cotopaxi y Galápagos.
 
-<img src="Visualizaciones/total-replay-por-provincias-y-candidato.jpg" width="1000"/><br/>
+<img src="" width="1000"/><br/>
   
  *** 
 1. ### Total de tweets favoritos en todas las provincias por candidato.
@@ -33,5 +33,5 @@ Andrés Arauz es el candidato presidencial más nombrado en la red social Twitte
 1. ### Total de tweets por provincia y candidato presidencial.
 
 Las primeras 3 provincias que más se habla de política son: Pichincha, Azuay y Guayas por otro lado las provincias en las cuales no se hablan acerca de política ni se twittea son: Carchi. Cotopaxi y Galápagos.
-<img src="Visualizaciones/total-tweets-por-provincias-y-candidato.png" width="1000"/><br/>
+<img src="Visualizaciones/total-replay-por-provincias-y-candidato.jpg"/><br/>
 ***
